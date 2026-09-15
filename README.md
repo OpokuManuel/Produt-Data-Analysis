@@ -13,6 +13,7 @@ An end-to-end data analysis project exploring transaction trends, revenue distri
 
 ---
 ### Dataset Used: 
+- <a href="https://github.com/OpokuManuel/Produt-Data-Analysis/blob/main/Product_Sales_Analysis.xlsx">Product Data </a> 
 ---
 
 ## Key Insights & Findings
@@ -37,15 +38,5 @@ An end-to-end data analysis project exploring transaction trends, revenue distri
 
 ---
 
-## Project Structure
 
-```text
-├── data/
-│   └── Product_Sales_Analysis.xlsx    # Source data file (Data, Pivot Tables & Dashboard)
-├── notebooks/
-│   └── sales_analysis.ipynb           # Python/Pandas Data Wrangling & Visualizations
-├── reports/
-│   └── sales_summary_dashboard.pdf    # Exported KPI report & chart summary
-├── README.md                          # Project Documentation
-└── requirements.txt                   # Environment Dependencies
 
