@@ -50,7 +50,7 @@ The dataset (`Product_Sales_Analysis.xlsx`) comprises individual transaction rec
 
 ---
 
-## 🚀 How to Use the Excel Workbook
+## How to Use the Excel Workbook
 
 1. **Raw Data Sheet (`Sales_Data`):** Contains the sanitized, structured master transaction log.
 2. **Pivot Summary Tables (`Pivot_Summaries`):** Aggregated metrics summarizing sales by region, category, date, and payment channel.
@@ -69,7 +69,7 @@ The dataset (`Product_Sales_Analysis.xlsx`) comprises individual transaction rec
 
 ---
 
-## 🛠 Tools & Technologies Used
+## Tools & Technologies Used
 
 * **Microsoft Excel / Google Sheets:**
   * Advanced Formulas (`SUMIFS`, `XLOOKUP`, `INDEX/MATCH`, `LET`)
